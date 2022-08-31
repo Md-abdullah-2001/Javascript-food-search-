@@ -1,0 +1,10 @@
+#box-container{
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    gap: 15px;
+}
+
+.country-container{
+    border: 2px solid red;
+    border-radius: 5px;
+}
